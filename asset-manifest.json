@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/venuemonk/static/css/main.2ffbf689.chunk.css",
-    "main.js": "/venuemonk/static/js/main.e23aae17.chunk.js",
-    "main.js.map": "/venuemonk/static/js/main.e23aae17.chunk.js.map",
-    "runtime-main.js": "/venuemonk/static/js/runtime-main.9feb091f.js",
-    "runtime-main.js.map": "/venuemonk/static/js/runtime-main.9feb091f.js.map",
-    "static/css/2.de424728.chunk.css": "/venuemonk/static/css/2.de424728.chunk.css",
-    "static/js/2.9eb9525a.chunk.js": "/venuemonk/static/js/2.9eb9525a.chunk.js",
-    "static/js/2.9eb9525a.chunk.js.map": "/venuemonk/static/js/2.9eb9525a.chunk.js.map",
-    "index.html": "/venuemonk/index.html",
-    "precache-manifest.8ac6dc136cd3b8381f227c330960ff4e.js": "/venuemonk/precache-manifest.8ac6dc136cd3b8381f227c330960ff4e.js",
-    "service-worker.js": "/venuemonk/service-worker.js",
-    "static/css/2.de424728.chunk.css.map": "/venuemonk/static/css/2.de424728.chunk.css.map",
-    "static/css/main.2ffbf689.chunk.css.map": "/venuemonk/static/css/main.2ffbf689.chunk.css.map",
-    "static/js/2.9eb9525a.chunk.js.LICENSE.txt": "/venuemonk/static/js/2.9eb9525a.chunk.js.LICENSE.txt",
-    "static/media/sidebar-2.jpg": "/venuemonk/static/media/sidebar-2.310509c9.jpg"
+    "main.css": "/venuemonk2/static/css/main.2ffbf689.chunk.css",
+    "main.js": "/venuemonk2/static/js/main.8cefae62.chunk.js",
+    "main.js.map": "/venuemonk2/static/js/main.8cefae62.chunk.js.map",
+    "runtime-main.js": "/venuemonk2/static/js/runtime-main.b729ea87.js",
+    "runtime-main.js.map": "/venuemonk2/static/js/runtime-main.b729ea87.js.map",
+    "static/css/2.de424728.chunk.css": "/venuemonk2/static/css/2.de424728.chunk.css",
+    "static/js/2.5632964f.chunk.js": "/venuemonk2/static/js/2.5632964f.chunk.js",
+    "static/js/2.5632964f.chunk.js.map": "/venuemonk2/static/js/2.5632964f.chunk.js.map",
+    "index.html": "/venuemonk2/index.html",
+    "precache-manifest.ec44b9bd7d45beb249f28a0eb0fdbeec.js": "/venuemonk2/precache-manifest.ec44b9bd7d45beb249f28a0eb0fdbeec.js",
+    "service-worker.js": "/venuemonk2/service-worker.js",
+    "static/css/2.de424728.chunk.css.map": "/venuemonk2/static/css/2.de424728.chunk.css.map",
+    "static/css/main.2ffbf689.chunk.css.map": "/venuemonk2/static/css/main.2ffbf689.chunk.css.map",
+    "static/js/2.5632964f.chunk.js.LICENSE.txt": "/venuemonk2/static/js/2.5632964f.chunk.js.LICENSE.txt",
+    "static/media/sidebar-2.jpg": "/venuemonk2/static/media/sidebar-2.310509c9.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.9feb091f.js",
+    "static/js/runtime-main.b729ea87.js",
     "static/css/2.de424728.chunk.css",
-    "static/js/2.9eb9525a.chunk.js",
+    "static/js/2.5632964f.chunk.js",
     "static/css/main.2ffbf689.chunk.css",
-    "static/js/main.e23aae17.chunk.js"
+    "static/js/main.8cefae62.chunk.js"
   ]
 }
